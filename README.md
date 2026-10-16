@@ -10,3 +10,6 @@ Acaranya seru :)
 
 ## Kesan Pesan Cluster 15 Sejauh Ini 
 Cluster aku penuh dengan orang-orang baik
+
+## Harapan Kuliah 
+Saya berharap dapat ilmu untuk menjadi developer yang dapat memecah masalah dengan cepat.
